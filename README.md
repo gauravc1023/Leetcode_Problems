@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0007-reverse-integer) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
