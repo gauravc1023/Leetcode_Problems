@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0485-max-consecutive-ones](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/gauravc1023/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0007-reverse-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/gauravc1023/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
