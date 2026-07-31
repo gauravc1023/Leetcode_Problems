@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0485-max-consecutive-ones](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gauravc1023/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/gauravc1023/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0015-3sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/gauravc1023/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
