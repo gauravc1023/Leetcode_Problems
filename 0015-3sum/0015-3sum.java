@@ -4,8 +4,8 @@ class Solution {
 		Arrays.sort(nums);
 		List<List<Integer>> ans = new ArrayList<>();
 		Set<List<Integer>> set = new HashSet<>();
-		
 		for(int i=0;i<n-2;i++) {
+            if (i != 0 && nums[i] == nums[i-1]) continue;
 			int low=i+1;
 			int high = n-1;
 			
