@@ -1,7 +1,9 @@
 class Solution {
     public boolean isPalindrome(String s) {
+        if(s.isEmpty()){
+         return true;
+       }
         String str = s.replaceAll("[^a-zA-Z0-9]","").toLowerCase();
-        System.out.println(str);
         int left = 0;
         int right = str.length()-1;
         while(left<right){
