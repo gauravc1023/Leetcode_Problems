@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/gauravc1023/Leetcode_Problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
